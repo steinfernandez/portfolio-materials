@@ -8,3 +8,12 @@ Solo project(s)
 Timeframe: various
 
 Link: https://github.com/steinaf/gamedev-learning-projects
+
+Screenshot Captions: 
+Pong2D
+Pong3D
+Resnake
+SpaceInvadersClone
+SpaceShooter
+TilePuzzle
+TypeSpeed

@@ -10,3 +10,5 @@ Timeframe: Sep 2015 -- Dec 2015
 
 Link: https://github.com/steinaf/epic-balance-spreadsheet
 
+Screenshot Captions: none
+
