@@ -10,9 +10,11 @@ Level Designer
 
 Timeframe : Nov 2015 -- May 2016
 
-Link: pending
+Link: https://bitbucket.org/kangareuben/pixalto
 
 Trailer link: https://www.youtube.com/watch?v=2yzNtdoN_Qk (put this as an embedded vid along with the screenshots if possible)
 
 Screenshot Captions:
 none
+
+note: Pixalto1.jpg should be the first picture, the trailer can be put last.
