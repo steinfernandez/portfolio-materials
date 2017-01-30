@@ -1,6 +1,6 @@
 Overview
 
-Wave for Waves is a city destruction game with a Leap Motion controller input. 
+Wave for Waves is a city destruction game with a Leap Motion controller input developed in under 48h as part of Global Game Jam 2017.
 
 My Role
 
