@@ -5,7 +5,7 @@ Wave for Waves is a city destruction game with a Leap Motion controller input de
 My Role
 
 Game Designer
-Programmer
+Unity/C# Programmer
 
 Timeframe : Jan 2017
 

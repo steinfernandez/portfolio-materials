@@ -4,8 +4,9 @@ Gloom Box [working title] is a music based puzzle platformer featuring a girl na
 
 My Role
 
-Designer
-Programmer
+Game Designer
+Unity/C# Programmer
+Prototyper
 
 Timeframe: Aug 2016 - May 2017
 
